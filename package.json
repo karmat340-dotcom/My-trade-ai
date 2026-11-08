@@ -1,0 +1,9 @@
+{
+  "name": "trademind-ai-professional",
+  "version": "4.0.0",
+  "private": true,
+  "description": "TradeMind AI installable web app and Android wrapper",
+  "scripts": {"start": "npx http-server public -p 4173", "cap:sync": "npx cap sync android"},
+  "dependencies": {"@capacitor/android": "^7.4.3", "@capacitor/core": "^7.4.3"},
+  "devDependencies": {"@capacitor/cli": "^7.4.3", "http-server": "^14.1.1"}
+}

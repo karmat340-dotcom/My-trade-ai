@@ -1,0 +1,6 @@
+{
+  "appId": "com.trademindai.professional",
+  "appName": "TradeMind AI",
+  "webDir": "public",
+  "server": {"androidScheme": "https"}
+}
